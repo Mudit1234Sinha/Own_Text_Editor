@@ -10,4 +10,4 @@ i)  win32print -: It's a module encapsulating the windows printing API
 
 ii) win32api -: It's a library of Python Extensions for windows that enables you to use the features of Win32 API on Python
 
-It has some other features also like changing the color of text, background and foreground as well as dark mode support
+We can also change the color of text, background and foreground as well as it supports dark mode also
